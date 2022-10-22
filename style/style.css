@@ -133,7 +133,7 @@ p {
         top: 0;
         width: 100%;
         height: 100%;
-        background-image: url("/images/sedanImage.jpg");
+        background-image: url("/images/sedan-image.jpg");
         border-radius: 12px 0 0 12px;
         background-size: cover;
         background-repeat: no-repeat;
@@ -156,7 +156,7 @@ p {
         top: 0;
         width: 100%;
         height: 100%;
-        background-image: url("/images/suvImage.jpg");
+        background-image: url("/images/suv-image.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         filter: grayscale(100%);
@@ -178,7 +178,7 @@ p {
         top: 0;
         width: 100%;
         height: 100%;
-        background-image: url("/images/luxImage.jpg");
+        background-image: url("/images/lux-image.jpg");
         border-radius: 0 12px 12px 0;
         background-size: cover;
         background-repeat: no-repeat;
